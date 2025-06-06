@@ -13,5 +13,6 @@
     "trailingComma": "es5",
     "useTabs": true,
 	"printWidth": 120,
+    "tailwindStylesheet": "./src/app/globals.css",
     "plugins": ["prettier-plugin-sort-imports", "prettier-plugin-tailwindcss"]
 }
